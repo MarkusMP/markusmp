@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[...]()**
+- 🔭 I’m currently working on **[Content Management App]()**
 
 - 🌱 I’m currently learning **Typescript, Tailwind and GraphQL**
 
