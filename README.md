@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Content Management App](https://github.com/markusmp/Content-Managment-App)**
 
-- 🌱 I’m currently learning **Typescript, Tailwind and GraphQL**
+- 🌱 I’m currently learning **Typescript, Tailwind and Docker**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
