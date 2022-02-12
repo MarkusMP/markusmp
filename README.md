@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Content Management App](https://github.com/markusmp/Content-Managment-App)**
+- 🔭 I’m currently working on **[Social Media App with SQL](https://github.com/MarkusMP/social-media-app-SQL)**
 
-- 🌱 I’m currently learning **Typescript, Tailwind and Docker**
+- 🌱 I’m currently learning **Typescript, SQL and Docker**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
