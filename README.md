@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **markusperssonbiz@gmail.com**
 
-- ⚡ Fun fact **I play games and I like to be active.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
