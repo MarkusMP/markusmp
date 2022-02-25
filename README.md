@@ -64,10 +64,3 @@
 <br/>
 <br/>
 
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=markusmp">
-</a>
-<a href="https://github.com/markusmp?tab=followers"><img src="https://img.shields.io/github/followers/markusmp?label=Followers&style=social" alt="GitHub Badge"></a>
