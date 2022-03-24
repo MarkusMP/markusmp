@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Social Media App with SQL](https://github.com/MarkusMP/social-media-app-SQL)**
+- 🔭 I’m currently working on **[Workout Tracker](https://github.com/MarkusMP/Workout-Tracker)**
 
 - 🌱 I’m currently learning **Typescript, SQL and Docker**
 
