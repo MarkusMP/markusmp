@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Workout Tracker](https://github.com/MarkusMP/Workout-Tracker)**
+- 🔭 I’m currently working on **[]()**
 
-- 🌱 I’m currently learning **Typescript, SQL and Docker**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
