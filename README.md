@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Crypto Tracker](https://github.com/MarkusMP/crypto-tracker)**
 
-- 🌱 I’m currently learning **UI**
+- 🌱 I’m currently learning **UI, NestJS, and Testing**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
