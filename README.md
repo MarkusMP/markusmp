@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Crypto Tracker](https://github.com/MarkusMP/crypto-tracker)**
+- 🔭 I’m currently working on **[Trello Clone](https://github.com/MarkusMP/react-nestjs-trello-clone)**
 
 - 🌱 I’m currently learning **UI, NestJS, and Testing**
 
