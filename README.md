@@ -48,15 +48,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/markusmp/github-readme-stats"><img alt="Markus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=markusmp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&custom_title=Markus's Github Stats" /></a>
-  <a href="https://github.com/markusmp/github-readme-stats"><img alt="Markus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusmp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
 <br/>
 
 <a href="https://github.com/markusmp/github-readme-activity-graph"><img alt="Markus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=markusmp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
