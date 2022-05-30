@@ -37,7 +37,7 @@
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="48" height="48"/> </a>
         <a href="https://tailwindcss.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/an/351546/svg/tailwind-css-seeklogo.com.svg" alt="Tailwind" width="48" height="48"/> </a>
            <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="48" height="48"/> </a>
-             <a href="https://www.nginx.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/262/242/png-transparent-nginx-phusion-passenger-application-software-proxy-server-reverse-proxy-creativo-logo-de-marca-angle-text-trademark.png" alt="Nginx" width="48" height="48"/> </a></p>
+             <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.kindpng.com/picc/m/371-3711272_transparent-nginx-logo-hd-png-download.png" alt="Nginx" width="48" height="48"/> </a></p>
 
 
 <br/>
