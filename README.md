@@ -5,11 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project Management App](https://github.com/MarkusMP/project-management-app)**
-
-- 🌱 I’m currently learning **UI, NestJS, and Testing**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 I’m currently working on **[Workout Tracker](https://github.com/MarkusMP/workout-tracker)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://markusmp.github.io/)**
 
