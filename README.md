@@ -9,7 +9,8 @@ I've been coding for almost half a decade and my goal is the help business owner
 *   🌍  I'm based in Stockholm, Sweden
 *   🖥️  See my portfolio at [My website](http://webbtopia.com/)
 *   🧠  I'm learning Everything about Next.js, Sanity.io, SEO, Web Design, and CRO
-*   🤝  I'm open to collaborating on open-source projects & React.js/Next.js projects.### Skills 
+*   🤝  I'm open to collaborating on open-source projects & React.js/Next.js projects.
+  ### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
