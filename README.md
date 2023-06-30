@@ -3,6 +3,8 @@ Hi 👋 My name is Markus Persson
 
 Web Developer, Web Designer, SEO, CRO
 -------------------------------------
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markusmarkusmp/)
+
 
 I'm a lifetime learner committed to achieving expertise in web development through continuous learning and dedicated practice.
 
@@ -10,8 +12,6 @@ I'm a lifetime learner committed to achieving expertise in web development throu
 *   🖥️  See my portfolio at [My website](http://webbtopia.com/)
 *   🧠  I'm learning Everything about Next.js, Sanity.io, SEO, Web Design, CRO, and web development.
 *   🤝  I'm open to collaborating on open-source React.js/Next.js projects.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markusmarkusmp/)
 
 <hr/>
 
