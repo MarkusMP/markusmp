@@ -3,7 +3,7 @@ Hi 👋 My name is Markus Persson
 
 Web Developer, Web Designer, SEO, CRO
 -------------------------------------
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markusmarkusmp/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markusmarkusmp/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/markusmp)
 
 
 I'm a lifetime learner committed to achieving expertise in web development through continuous learning and dedicated practice.
