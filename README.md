@@ -11,6 +11,8 @@ I'm a lifetime learner committed to achieving expertise in web development throu
 *   🧠  I'm learning Everything about Next.js, Sanity.io, SEO, Web Design, CRO, and web development.
 *   🤝  I'm open to collaborating on open-source React.js/Next.js projects.
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markusmarkusmp/)
+
 <hr/>
 
   ### Languages 
